@@ -1,24 +1,26 @@
-Git Tutorial
+# Git Tutorial
 
-Purpose
-This repository was created for Tutorial Worksheet 4 to practice Basic Git and Workflow; branching, committing, pushing and pulling requests.
+## Purpose
+This repository was created for Tutorial #4 to practice basic Git and GitHub
+workflows: branching, committing, pushing, and pull requests.
 
-Collaborators
-Devin Anthony - Username (devinanthony20-prog) - repository owner 
-Zaynab Jalal Providence - Username ( bbsalimaalli1970-creator) - Collaborator and reviewer
+## Collaborators
+- Devin Anthony (devinanthony20-prog) - repository owner
+- Zaynab Jalal Providence (bbsalimaalli1970-creator) - collaborator and reviewer
 
-Steps I Followed
-Installed Git and created a Github account.
-Created a local repository with 'git init' and pushed it to Github.
-Added my classmate a collaborator.
-Created a new branch 'my-feature'.
-Added 'hello.py', which prints my name.
-Committed the file with a clear message.
-Pushed the branch to Github.
-Open a pull request and requested a review from my collaborator.
-My collaborator reviewed and approved the pull request.
-The branch was merged into 'main".
+## Steps I Followed
+1. Installed Git and created a GitHub account.
+2. Created a local repository with `git init` and pushed it to GitHub.
+3. Added my classmate as a collaborator.
+4. Created a new branch, `my-feature`.
+5. Added `hello.py`, which prints my name.
+6. Committed the file with a clear message.
+7. Pushed the branch to GitHub.
+8. Opened a pull request and requested a review from my collaborator.
+9. My collaborator reviewed and approved the pull request.
+10. The branch was merged into `main`.
 
-Key Details
-'hello.py' prints my First and Last name.
-Pull request #1 added 'hello.py'; this README was added in a second pull request.
+## Key Details
+- `hello.py` prints my first and last name.
+- Pull request #1 added `hello.py`; pull request #2 updated this README.
+
